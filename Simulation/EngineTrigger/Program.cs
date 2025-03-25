@@ -10,12 +10,23 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddCors(options =>
 {
     options.AddPolicy(name: "AllowVueApp",
-                      policy =>
-                      {
-                          policy.WithOrigins("http://localhost:9000")
-                                .AllowAnyHeader()
-                                .AllowAnyMethod();
-                      });
+         policy =>
+         {
+             policy
+                 .SetIsOriginAllowed(origin =>
+                 {
+                     return origin.StartsWith("http://localhost");
+                 })
+                 .AllowAnyHeader()
+                 .AllowAnyMethod();
+         });
+
+    //policy =>
+    //{
+    //    policy.WithOrigins("http://localhost:9002")
+    //          .AllowAnyHeader()
+    //          .AllowAnyMethod();
+    //});
 });
 
 //string으로 보내줬을 때 enum으로 파싱 
