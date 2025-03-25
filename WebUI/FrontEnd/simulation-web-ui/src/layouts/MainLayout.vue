@@ -88,12 +88,12 @@
             </q-item-section>
             <q-item-section>간트차트</q-item-section>
           </q-item>
-          <q-item clickable v-ripple to="/analysis/eqp-schedule" class="q-pl-lg">
+          <!-- <q-item clickable v-ripple to="/analysis/eqp-schedule" class="q-pl-lg">
             <q-item-section avatar>
               <q-icon name="compare" />
             </q-item-section>
             <q-item-section>계획 결과 비교</q-item-section>
-          </q-item>
+          </q-item> -->
           <!-- <q-item clickable v-ripple to="/analysis/dispatch-log" class="q-pl-lg">
             <q-item-section avatar>
               <q-icon name="list" />

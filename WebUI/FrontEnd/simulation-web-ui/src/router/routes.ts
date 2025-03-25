@@ -13,7 +13,7 @@ const routes: RouteRecordRaw[] = [
     path: '/',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/GanttChart.vue') },
+      { path: '', redirect: '/analysis/gantt' },
       {
         path: 'master',
         children: [
