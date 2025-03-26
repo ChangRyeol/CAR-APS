@@ -15,7 +15,9 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 # APS 프로젝트 구성 및 Work Flow 
 
-![](https://img.notionusercontent.com/s3/prod-files-secure%2F06a21062-e5a0-4450-ab72-fb1eb4e3f313%2F3d89aedd-c885-4c44-9f3d-2e8d67746dfb%2Fimage.png/size/w=1920?exp=1742964761&sig=EihOjL0jACqOk6JUDG8hqiRQz45VcRnwKyuIBgZiAfc)
+![](https://file.notion.so/f/f/06a21062-e5a0-4450-ab72-fb1eb4e3f313/3d89aedd-c885-4c44-9f3d-2e8d67746dfb/image.png?table=block&id=1c2c70e7-360d-8030-b869-c54a48a1ff9a&spaceId=06a21062-e5a0-4450-ab72-fb1eb4e3f313&expirationTimestamp=1743033600000&signature=eJcDe9FGQ_TDn2IXIJALScQCnrfF-TXD3fc-sQI0BPI&downloadName=image.png)
+
+https://file.notion.so/f/f/06a21062-e5a0-4450-ab72-fb1eb4e3f313/3d89aedd-c885-4c44-9f3d-2e8d67746dfb/image.png?table=block&id=1c2c70e7-360d-8030-b869-c54a48a1ff9a&spaceId=06a21062-e5a0-4450-ab72-fb1eb4e3f313&expirationTimestamp=1743033600000&signature=eJcDe9FGQ_TDn2IXIJALScQCnrfF-TXD3fc-sQI0BPI&downloadName=image.png
 
 # 1. 시뮬레이션
 
