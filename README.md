@@ -13,7 +13,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 아래에는 인프라 구성, 코드 레벨의 프로젝트 구조, 객체나 함수의 역할 등에 대해 기술하겠습니다.  
 
-# 프로젝트 구성
+# APS 프로젝트 구성 및 Work Flow 
 
 ![](https://img.notionusercontent.com/s3/prod-files-secure%2F06a21062-e5a0-4450-ab72-fb1eb4e3f313%2F3d89aedd-c885-4c44-9f3d-2e8d67746dfb%2Fimage.png/size/w=1920?exp=1742964761&sig=EihOjL0jACqOk6JUDG8hqiRQz45VcRnwKyuIBgZiAfc)
 
