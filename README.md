@@ -1,6 +1,7 @@
 # READ ME
+포트폴리오 PDF: [https://github.com/user-attachments/files/19460360/_.pdf]
 
-WEB UI : http://[52.79.235.205/](https://52.79.235.205/) 
+WEB UI : [http://52.79.235.205/](https://52.79.235.205/) 
 
 - WEB UI에서 엔진 실행 가능
 
