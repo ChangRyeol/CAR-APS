@@ -19,7 +19,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 # **1.1 Data Mart**
 
-           C#,  .Net Framework 4.7, Library 
+C#,  .Net Framework 4.7, Library 
 
 ## Input Mart
 
@@ -31,7 +31,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 ## **1.2 Simulation Engine**
 
-         C#, .Net Framework 4.7, Library
+C#, .Net Framework 4.7, Library
 
 : 시뮬레이션 엔진은 확장성과 재사용성을 고려한 모듈식 구조로 설계되어 다양한 공정 환경에 유연하게 적용될 수 있습니다.
 
@@ -60,7 +60,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 ## 1.3 Car Aps Model
 
-          C#, .Net Framework 4.7, 콘솔 앱 
+C#, .Net Framework 4.7, 콘솔 앱 
 
 : 완성차 공장의 시뮬레이션 대상 요소 추출 및 커스텀 로직 구현. 로컬에서 디버깅 가능한 콘솔 앱. 
 
@@ -78,7 +78,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 ## 1.4 Engine Trigger
 
-         C#, .ASP .NET CORE 
+C#, .ASP .NET CORE 
 
 : 웹에서 엔진을 실행시키기 위한 End Point. HTTP로 호출하면 엔진을 실행시킬 수 있다. 
 
