@@ -1,5 +1,5 @@
 # READ ME
-포트폴리오 PDF: [https://github.com/user-attachments/files/19460360/_.pdf]
+포트폴리오 PDF: https://github.com/user-attachments/files/19460360/_.pdf
 
 WEB UI : [http://52.79.235.205/](https://52.79.235.205/) 
 
@@ -13,7 +13,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 # 프로젝트 구성
 
-![image.png](attachment:3d89aedd-c885-4c44-9f3d-2e8d67746dfb:image.png)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F06a21062-e5a0-4450-ab72-fb1eb4e3f313%2F3d89aedd-c885-4c44-9f3d-2e8d67746dfb%2Fimage.png/size/w=1920?exp=1742964761&sig=EihOjL0jACqOk6JUDG8hqiRQz45VcRnwKyuIBgZiAfc)
 
 # 1. 시뮬레이션
 
@@ -88,7 +88,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 AWS Lambda를 사용한 Serverless 아키텍쳐 
 
-[![](https://img.notionusercontent.com/s3/prod-files-secure%2F06a21062-e5a0-4450-ab72-fb1eb4e3f313%2Fac91e666-417a-4d5f-afbf-7ba427cadd94%2Fimage.png/size/w=1920?exp=1742964487&sig=YlaRt5XQVfKKeM03dwa0fW95z0X2ABTGF8edUiJCBOE)]
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F06a21062-e5a0-4450-ab72-fb1eb4e3f313%2Fac91e666-417a-4d5f-afbf-7ba427cadd94%2Fimage.png/size/w=1920?exp=1742964487&sig=YlaRt5XQVfKKeM03dwa0fW95z0X2ABTGF8edUiJCBOE)
 
 ## Frontend
 
