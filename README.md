@@ -88,7 +88,7 @@ WEB UI : [http://52.79.235.205/](https://52.79.235.205/)
 
 AWS Lambda를 사용한 Serverless 아키텍쳐 
 
-![image.png](attachment:ac91e666-417a-4d5f-afbf-7ba427cadd94:image.png)
+[![](https://img.notionusercontent.com/s3/prod-files-secure%2F06a21062-e5a0-4450-ab72-fb1eb4e3f313%2Fac91e666-417a-4d5f-afbf-7ba427cadd94%2Fimage.png/size/w=1920?exp=1742964487&sig=YlaRt5XQVfKKeM03dwa0fW95z0X2ABTGF8edUiJCBOE)]
 
 ## Frontend
 
