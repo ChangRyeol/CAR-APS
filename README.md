@@ -60,6 +60,19 @@ C#, .Net Framework 4.7, Library
 - **동적 상태 변화**: 이벤트 발생에 따른 객체 상태 변화 처리
 - **병렬 처리**: 동시에 발생하는 여러 이벤트의 적절한 처리
 
+## 아키텍쳐의 설계 아이디어 
+
+- **SimFactory를 통한 중앙 관리**
+    - SimFactory가 다양한 Manager들을 중앙 관리
+    - 각 Manager가 직접 다른 Manager를 생성하지 않고 Factory를 통해 접근
+- **인터페이스 기반 설계**
+    - IEquipmentModel, ILotModel 등 인터페이스를 통해 모델과 엔진 분리
+    - 구체적인 구현체(PhotoProcessModel)보다 인터페이스에 의존
+- **Model 주입 방식**
+    - Manager들이 Model 인터페이스를 생성자를 통해 주입받음
+    - 의존성이 외부에서 제공됨     
+
+
 ## 1.3 Car Aps Model
 
 C#, .Net Framework 4.7, 콘솔 앱 
