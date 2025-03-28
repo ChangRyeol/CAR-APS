@@ -67,7 +67,7 @@ C#, .Net Framework 4.7, Library
     - 각 Manager가 직접 다른 Manager를 생성하지 않고 Factory를 통해 접근
 - **인터페이스 기반 설계**
     - IEquipmentModel, ILotModel 등 인터페이스를 통해 모델과 엔진 분리
-    - 구체적인 구현체(PhotoProcessModel)보다 인터페이스에 의존
+    - 구체적인 구현체(CarEquipmentModel)보다 인터페이스에 의존
 - **Model 주입 방식**
     - Manager들이 Model 인터페이스를 생성자를 통해 주입받음
     - 의존성이 외부에서 제공됨     
